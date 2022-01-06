@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "\n\nPrinting the first 10 lines"
+echo "\n\nPrinting the first 10 lines (default)"
 head testfile.txt
 
 echo "\n\nPrinting the first 15 lines"
