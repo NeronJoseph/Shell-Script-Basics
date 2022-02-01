@@ -8,3 +8,6 @@ paste -d":" -s sample1.csv
 
 #Replace the newlines in the input with tabs as demonstrated in the sample
 paste -d$'\t' -s sample1.csv
+
+#Restructure the file in such a way, that every group of three consecutive rows are folded into one, and separated by tab
+< sample1.csv paste -d$'\t' - - - 
