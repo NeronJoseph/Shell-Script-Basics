@@ -4,7 +4,11 @@ This Repository contains samples of basic shell commands. You can execute the sh
 ###### *Note: Most of the examples are took from HackerRank. I used HackerRank to study these topics.*
 
 ## Contents
-1. Head and Tail command
-2. TR command
-3. SORT command
-4. CUT command
+1. Text Processing Commands
+   1. head and tail command
+   2. tr command
+   3. echo command
+   4. cut command
+   5. sort command
+   6. uniq command
+   7. paste command
